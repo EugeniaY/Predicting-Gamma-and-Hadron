@@ -6,10 +6,9 @@ Using Machine Learning to Predict Gamma and Hadron
   <!-- Create your ML Environment -->
   <li>conda create -n ml_project python=3.11 -y</li>
   <!-- Activating It -->
-  <li>conda activate ml_project</li>
+  <li>conda activate ml_project</li><br>
   <p>If ipynb is not installed yet</p>
   <li>conda install ipykernel -y</li>
-  <li></li>
 </ul>
 
 <h2>Solving Error, if Python Vesion is not Changing</h2>
